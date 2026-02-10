@@ -2,7 +2,9 @@
 
 **Overview:**
 
-This project documents a scenario-based cyber risk analysis focused on a third-party vendor breach within a simulated organization. The objective was to evaluate how a security incident originating outside the organization’s direct control could translate into material business risk, including data exposure, regulatory scrutiny, operational disruption, and reputational damage. Rather than assessing vendor controls in isolation, this analysis traces a realistic threat pathway from vendor compromise through organizational impact to support executive decision-making and risk prioritization.
+This project contains two scenario‑based cyber risk analyses designed to evaluate how realistic security incidents can escalate into material business risk. The scenarios; Privileged Account Abuse and Third‑Party Vendor Breach demonstrate how threats originating either inside or outside the organization can lead to data exposure, operational disruption, regulatory scrutiny, and reputational harm.
+
+Rather than focusing solely on control gaps, each analysis traces a full threat pathway from initial compromise to organizational impact, supporting informed executive decision‑making and risk prioritization.
 
 **Technologies & Tools Used:**
 
@@ -14,41 +16,54 @@ This project documents a scenario-based cyber risk analysis focused on a third-p
 
 **Deliverable Features:**
 
-- Scenario-based cyber risk narrative focused on third-party exposure
-- Defined threat pathway illustrating vendor-to-organization impact
-- Asset and data impact identification
+- Clear, narrative‑driven cyber risk scenarios (internal and external threat origins)
+- Defined threat pathways illustrating how compromise leads to business impact
+- Identification of affected assets, data types, and business functions
 - Quantitative inherent risk scoring using a 5×5 matrix
-- Business-focused impact and likelihood analysis
-- Risk treatment options with a clear recommended decision
-- Executive-ready summary language
+- Business‑focused impact and likelihood analysis
+- Evaluation of risk treatment options with a recommended course of action
+- Executive‑ready summary language suitable for governance and oversight discussions
 
 **Notes for Reviewers:**
 
-This analysis intentionally prioritizes clarity and business relevance over technical depth. Plain English is used to describe vendor-related threat scenarios, impacts, and decisions to ensure accessibility for executive and non-technical stakeholders. Formal risk concepts and NIST-aligned structure are applied to maintain consistency, defensibility, and alignment with industry risk management practices without over-reliance on control-level detail.
+These analyses prioritize clarity, business relevance, and accessibility for executive and non‑technical stakeholders. Plain English is used to describe threat scenarios, impacts, and decisions, while maintaining a NIST‑aligned structure and defensible risk methodology. The goal is to communicate risk in a way that supports governance, not overwhelm readers with technical detail.
 
 **Start to Finish Process:**
 
-The project began by defining a realistic third-party cyber risk scenario involving a vendor with access to sensitive organizational and customer data. A threat pathway was developed to demonstrate how a vendor-side security failure could escalate into direct organizational impact. Impact and likelihood were assessed using a five-by-five risk matrix to calculate inherent risk and support consistent prioritization. Risk treatment options were evaluated based on their ability to reduce likelihood and limit exposure, culminating in a mitigation-focused recommendation designed to align with organizational risk tolerance and governance expectations.
+Each analysis began by defining a realistic cyber risk scenario. One involving misuse or compromise of privileged access, and another involving a breach at a third‑party vendor with access to sensitive data.
+
+For both cases:
+1. A threat pathway was developed to show how the incident could escalate into organizational impact.
+2. Impact and likelihood were assessed using a five‑by‑five risk matrix to calculate inherent risk.
+3. Risk treatment options were evaluated based on their ability to reduce likelihood, limit exposure, and align with organizational risk tolerance.
+4. A recommended mitigation strategy was provided to support leadership decision‑making.
 
 **Key Takeaways & Discoveries:**
 
-- Third-party vendors represent a significant source of cyber risk due to limited direct control and delayed detection.
-- Scenario-based analysis provides clearer insight into vendor risk than control-only or questionnaire-based assessments.
-- Quantitative scoring strengthens prioritization and executive understanding of vendor-related exposure.
-- Effective third-party risk management requires ongoing oversight, not one-time due diligence.
+- Both internal and external dependencies introduce significant cyber risk.
+- Scenario‑based analysis provides clearer insight than control‑only or checklist‑driven assessments.
+- Quantitative scoring strengthens prioritization and executive understanding.
+- Privileged access and third‑party relationships require continuous oversight, not one‑time reviews.
+- Mapping realistic threat pathways helps organizations understand why a risk matters, not just that it exists.
 
 **Why Scenario-Based Analysis Matters:**
 
-Scenario-based cyber risk analysis bridges the gap between external security failures and internal business impact. By tracing how a vendor-originated incident could realistically unfold, this approach helps leadership understand not just which vendors pose risk, but why that risk matters and where attention should be focused. This method supports more informed prioritization than abstract vendor ratings or checklist-driven assessments alone.
+Scenario‑based cyber risk analysis bridges the gap between technical security failures and real business impact. By tracing how an incident could realistically unfold. Whether through insider misuse or vendor compromise, this method helps leadership understand the consequences, prioritize resources, and make informed governance decisions. It provides a level of clarity that abstract ratings or questionnaires cannot.
 
 **Value to Cyber Risk Management:**
 
-This project demonstrates how scenario-based analysis can be used to identify, quantify, and communicate third-party cyber risk in a way that supports governance, prioritization, and executive oversight. It highlights the role of cyber risk analysis as a decision-support function rather than a purely compliance-driven vendor management activity.
+These analyses demonstrate how scenario‑based methods can be used to identify, quantify, and communicate cyber risk in a way that supports governance, prioritization, and executive oversight. They highlight cyber risk analysis as a decision‑support function that strengthens both internal security practices and third‑party risk management programs.
 
 **Growth & Next Improvements:**
 
-This project strengthened my ability to assess cyber risk introduced by external dependencies through a business and governance lens. Future iterations could expand this analysis to include vendor tiering, comparative risk scoring across multiple vendors, or integration with formal risk registers and GRC platforms to support continuous third-party risk monitoring at scale.
+This project strengthened my ability to assess cyber risk through a business and governance lens across both internal and external threat vectors. Future enhancements may include:
+
+- Comparative scoring across multiple scenarios or vendors
+- Integration with formal risk registers or GRC platforms
+- Expanded modeling of privilege escalation pathways
+- Vendor tiering and continuous monitoring frameworks
 
 **Video Walkthrough:**
 
-(Scenario walkthrough video coming soon)
+https://github.com/user-attachments/assets/6a4be3a9-3bb1-4597-ac70-4231d840346e
+
