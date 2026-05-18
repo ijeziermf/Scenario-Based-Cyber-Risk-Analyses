@@ -1,6 +1,6 @@
 # Scenario-Based Cyber Risk Analyses
 
-> **Privileged Account Abuse & Third-Party Vendor Breach — NIST-aligned threat pathways, quantitative scoring, executive decision support.**
+> **Privileged Account Abuse & Third-Party Vendor Breach, NIST-aligned threat pathways, quantitative scoring, executive decision support.**
 
 ---
 
@@ -12,13 +12,13 @@
 | **Methodology** | Scenario-based threat pathways, quantitative risk scoring |
 | **Deliverables** | Risk analysis reports, executive summaries, treatment recommendations |
 | **Stakeholder Focus** | Executive decision-making, governance, risk prioritization |
-| **Industry Relevance** | All industries — internal threats and third-party risk |
+| **Industry Relevance** | All industries, internal threats and third-party risk |
 
 ---
 
 ## Overview
 
-This project contains two **scenario-based cyber risk analyses** designed to evaluate how realistic security incidents can escalate into **material business risk**. The scenarios — **Privileged Account Abuse** (internal threat) and **Third-Party Vendor Breach** (external threat) — demonstrate how threats originating inside or outside the organization can lead to:
+This project contains two **scenario-based cyber risk analyses** designed to evaluate how realistic security incidents can escalate into **material business risk**. The scenarios, **Privileged Account Abuse** (internal threat) and **Third-Party Vendor Breach** (external threat), demonstrate how threats originating inside or outside the organization can lead to:
 
 - Data exposure
 - Operational disruption
@@ -43,12 +43,12 @@ Rather than focusing solely on control gaps, each analysis traces a **full threa
 
 ## Key Features
 
-- ✅ **Narrative-Driven Scenarios** — Realistic, relatable threat stories
-- ✅ **Threat Pathway Mapping** — From initial compromise to business impact
-- ✅ **Quantitative Inherent Risk** — 5×5 matrix scoring (Impact × Likelihood)
-- ✅ **Business-Focused Language** — Accessible to non-technical executives
-- ✅ **Treatment Recommendations** — Clear decision support, not just findings
-- ✅ **NIST-Aligned Structure** — Audit-defensible methodology
+- ✅ **Narrative-Driven Scenarios**, Realistic, relatable threat stories
+- ✅ **Threat Pathway Mapping**, From initial compromise to business impact
+- ✅ **Quantitative Inherent Risk**, 5×5 matrix scoring (Impact × Likelihood)
+- ✅ **Business-Focused Language**, Accessible to non-technical executives
+- ✅ **Treatment Recommendations**, Clear decision support, not just findings
+- ✅ **NIST-Aligned Structure**, Audit-defensible methodology
 
 ---
 
@@ -61,8 +61,8 @@ Rather than focusing solely on control gaps, each analysis traces a **full threa
 | **Threat Pathway** | Credential misuse → data exfiltration → business impact |
 | **Affected Assets** | Customer databases, financial records, admin systems |
 | **Business Impact** | Regulatory fines, customer lawsuits, reputational damage |
-| **Inherent Risk Score** | 20 (Critical) — Impact 5 × Likelihood 4 |
-| **Treatment Priority** | Immediate — PAM implementation, session monitoring |
+| **Inherent Risk Score** | 20 (Critical), Impact 5 × Likelihood 4 |
+| **Treatment Priority** | Immediate, PAM implementation, session monitoring |
 
 ### Threat Pathway Diagram
 
@@ -94,8 +94,8 @@ Privileged Account Compromise
 | **Threat Pathway** | Vendor breach → shared data exposure → downstream impact |
 | **Affected Assets** | Shared customer data, integration APIs, contracts |
 | **Business Impact** | Contractual liability, customer notification costs, trust loss |
-| **Inherent Risk Score** | 16 (High) — Impact 4 × Likelihood 4 |
-| **Treatment Priority** | High — Vendor risk assessments, contract clauses |
+| **Inherent Risk Score** | 16 (High), Impact 4 × Likelihood 4 |
+| **Treatment Priority** | High, Vendor risk assessments, contract clauses |
 
 ### Threat Pathway Diagram
 
@@ -139,7 +139,7 @@ Vendor System Breach
 
 ## Why Scenario-Based Analysis Matters
 
-Scenario-based cyber risk analysis **bridges the gap** between technical security failures and real business impact. By tracing how an incident could realistically unfold — whether through insider misuse or vendor compromise — this method helps leadership understand:
+Scenario-based cyber risk analysis **bridges the gap** between technical security failures and real business impact. By tracing how an incident could realistically unfold, whether through insider misuse or vendor compromise, this method helps leadership understand:
 
 - **Why the risk matters** (not just that it exists)
 - **Where resources should be focused** (priority allocation)
@@ -175,10 +175,10 @@ This project demonstrates **client-ready deliverables** for:
 
 ## Key Takeaways
 
-1. **Internal and External Threats Both Matter** — Privileged access and vendor relationships are high-risk
-2. **Scenario-Based > Control-Only** — Realistic pathways beat abstract checklists
-3. **Quantitative Scoring Strengthens Prioritization** — Consistent ranking enables resource allocation
-4. **Cyber Risk = Decision Support** — Not just technical findings, but governance input
+1. **Internal and External Threats Both Matter**, Privileged access and vendor relationships are high-risk
+2. **Scenario-Based > Control-Only**, Realistic pathways beat abstract checklists
+3. **Quantitative Scoring Strengthens Prioritization**, Consistent ranking enables resource allocation
+4. **Cyber Risk = Decision Support**, Not just technical findings, but governance input
 
 ---
 
